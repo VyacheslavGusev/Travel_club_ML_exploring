@@ -1,2 +1,2 @@
 # Travel_club_ML_exploring
-Исследование моделей ML для решения задачи классификации на датасете с дисбалансом классов
+Investigation of ML models for solving the classification problem on a dataset with class imbalance
